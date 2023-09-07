@@ -1,0 +1,5 @@
+Component: main
+Origin: emercoin
+Label: emercoin
+Architecture: armhf
+Description: emercoin debian package repository

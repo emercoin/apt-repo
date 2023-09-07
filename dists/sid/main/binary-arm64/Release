@@ -1,0 +1,5 @@
+Component: main
+Origin: emercoin
+Label: emercoin
+Architecture: arm64
+Description: emercoin debian package repository
