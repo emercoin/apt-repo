@@ -1,0 +1,16 @@
+Package: emercoin-bin
+Version: 0.8.4-1
+Architecture: amd64
+Depends: libboost-filesystem1.74.0 (>= 1.74.0), libc6 (>= 2.30), libdb5.3++, libevent-2.1-7 (>= 2.1.8-stable), libevent-pthreads-2.1-7 (>= 2.1.8-stable), libgcc-s1 (>= 3.0), libleveldb1d, libminiupnpc17 (>= 1.9.20140610), libqrencode4 (>= 3.2.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.15.1), libsqlite3-0 (>= 3.7.15), libstdc++6 (>= 9), libzmq5 (>= 4.0.1+dfsg)
+Provides: emercoin
+Maintainer: emercoin
+Priority: optional
+Section: web
+Filename: pool/main/e/emercoin-bin/emercoin-bin_0.8.4-1_amd64.deb
+Size: 11704616
+SHA512: a54258654349ef06f7488543a45c99fc68bf5db52f7b080c5e71c1350ac5d84f5016ec760422c1df2649bd3790366004b5794cb47d4a2bcdfe6da711bd4a491b
+SHA256: 9b42a0f633fc7b3bf8e1a33fdff00b433380a437f78ba6410a4e460177ffcc9a
+SHA1: 6676df02017e3d0c65fac147fdb247e06bd96222
+MD5sum: beb5f63aa61d4c60b30b53d3d6ffaa59
+Description: Emercoin is a digital currency and blockchain service platform. Debian package.
+

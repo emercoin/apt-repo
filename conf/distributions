@@ -1,0 +1,10 @@
+Origin: emercoin
+Label: emercoin
+#Suite: emercoin
+Codename: sid
+Architectures: amd64 arm64 armhf armel i386 mips mipsel mips64el ppc64el riscv64 s390x
+Components: main
+Description: emercoin debian package repository
+SignWith: DE08F924EEE93832DABC642CA8DC761B1C0C0CFC
+Update: emercoin
+#Log: /var/log/reprepro/emercoin.log
