@@ -1,0 +1,5 @@
+Component: main
+Origin: emercoin
+Label: emercoin
+Architecture: s390x
+Description: emercoin debian package repository

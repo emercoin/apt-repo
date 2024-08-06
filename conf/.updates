@@ -1,0 +1,6 @@
+Name: skycoin
+Method: http://deb.magnetosphere.net
+Suite: skycoin
+Components: main
+Architectures: amd64 arm64 armhf armel i386 mips mipsel mips64el ppc64el riscv64 s390x
+VerifyRelease: A8DC761B1C0C0CFC
